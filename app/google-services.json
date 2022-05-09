@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393933592927",
+    "project_id": "shop-95ded",
+    "storage_bucket": "shop-95ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393933592927:android:40b38880b91e20122b7eea",
+        "android_client_info": {
+          "package_name": "com.xiang.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393933592927-p7ob7pqkvj8q05nnj7k2788mincm8ma3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5wdflmwkdWGPyiDClKewv5_f1Jf487mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393933592927-p7ob7pqkvj8q05nnj7k2788mincm8ma3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
